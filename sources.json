@@ -1,0 +1,171 @@
+{
+  "ফিলিপাইন": [
+    "https://www.rappler.com/feed/",
+    "https://www.philstar.com/rss"
+  ],
+  "ইরাক": [
+    "https://www.rudaw.net/english/rss",
+    "https://www.iraqinews.com/feed/"
+  ],
+  "আফগানিস্তান": [
+    "https://www.tolonews.com/en/rss",
+    "https://pajhwok.com/en/feed/"
+  ],
+  "প্যালেস্টাইন": [
+    "https://english.wafa.ps/rss.aspx",
+    "https://www.aljazeera.com/xml/rss/all.xml"
+  ],
+  "ইয়েমেন": [
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://reliefweb.int/updates/rss/ye"
+  ],
+  "মায়ানমার": [
+    "https://www.irrawaddy.com/feed",
+    "https://www.mizzima.com/rss"
+  ],
+  "বাংলাদেশ": [
+    "https://www.prothomalo.com/feed",
+    "https://www.thedailystar.net/rss.xml"
+  ],
+  "কাশ্মীর": [
+    "https://kashmirobserver.net/feed/",
+    "https://freepresskashmir.news/feed/"
+  ],
+  "নেপাল": [
+    "https://kathmandupost.com/rss",
+    "https://thehimalayantimes.com/rss"
+  ],
+  "শ্রীলঙ্কা": [
+    "https://www.dailymirror.lk/rss/latest_news",
+    "https://www.dailynews.lk/rss.xml"
+  ],
+  "লাওস": [
+    "https://www.vientianetimes.org.la/"
+  ],
+  "কাম্বোডিয়া": [
+    "https://www.khmertimeskh.com/feed/",
+    "https://www.phnompenhpost.com/rss.xml"
+  ],
+  "ভিয়েতনাম": [
+    "https://e.vnexpress.net/rss/news.rss",
+    "https://tuoitrenews.vn/rss"
+  ],
+  "লেবানন": [
+    "https://www.naharnet.com/rss",
+    "https://www.dailystar.com.lb/RSS.aspx"
+  ],
+  "সিরিয়া": [
+    "https://syrianobserver.com/feed",
+    "https://reliefweb.int/updates/rss/sy"
+  ],
+  "ইরান": [
+    "https://en.irna.ir/rss",
+    "https://www.tehrantimes.com/rss"
+  ],
+  "বাহরাইন": [
+    "https://www.albawaba.com/rss"
+  ],
+  "জর্ডান": [
+    "https://jordantimes.com/rss",
+    "https://en.ammonnews.net/rss"
+  ],
+  "কুয়েত": [
+    "https://www.kuna.net.kw/rss.aspx"
+  ],
+  "পাপুয়া নিউ গিনি": [
+    "https://emtv.com.pg/feed/"
+  ],
+  "তিমুর-লেস্টে": [
+    "https://reliefweb.int/updates/rss/tl"
+  ],
+  "সেনেগাল": [
+    "https://www.senenews.com/feed",
+    "https://reliefweb.int/updates/rss/sn"
+  ],
+  "গিনি-বিসাউ": [
+    "https://reliefweb.int/updates/rss/gw"
+  ],
+  "উগান্ডা": [
+    "https://www.monitor.co.ug/feed",
+    "https://www.newvision.co.ug/rss"
+  ],
+  "জিম্বাবুয়ে": [
+    "https://www.newsday.co.zw/feed/",
+    "https://www.herald.co.zw/feed/"
+  ],
+  "লিবিয়া": [
+    "https://www.libyaobserver.ly/rss.xml",
+    "https://reliefweb.int/updates/rss/ly"
+  ],
+  "সিয়েরা লিওন": [
+    "https://awokonewspaper.sl/feed/",
+    "https://reliefweb.int/updates/rss/sl"
+  ],
+  "ডিআর কঙ্গো": [
+    "https://reliefweb.int/updates/rss/cd"
+  ],
+  "আঙ্গোলা": [
+    "https://reliefweb.int/updates/rss/ao"
+  ],
+  "মালি": [
+    "https://reliefweb.int/updates/rss/ml"
+  ],
+  "সুদান": [
+    "https://sudantribune.com/feed/",
+    "https://radiotamazuj.org/en/rss.xml"
+  ],
+  "সোমালিয়া": [
+    "https://reliefweb.int/updates/rss/so"
+  ],
+  "নাইজার": [
+    "https://reliefweb.int/updates/rss/ne"
+  ],
+  "ইথিওপিয়া": [
+    "https://addisstandard.com/feed/",
+    "https://www.thereporterethiopia.com/rss.xml"
+  ],
+  "প্যারাগুয়ে": [
+    "https://reliefweb.int/updates/rss/py"
+  ],
+  "হন্ডুরাস": [
+    "https://reliefweb.int/updates/rss/hn"
+  ],
+  "এল সালভাদর": [
+    "https://reliefweb.int/updates/rss/sv"
+  ],
+  "চিলি": [
+    "https://www.biobiochile.cl/rss/feed.xml",
+    "https://www.latercera.com/rss"
+  ],
+  "হাইতি": [
+    "https://haitiantimes.com/feed/",
+    "https://reliefweb.int/updates/rss/ht"
+  ],
+  "ভেনিজুয়েলা": [
+    "https://www.telesurenglish.net/rss"
+  ],
+  "কিউবা": [
+    "https://www.radiohc.cu/en/rss"
+  ],
+  "বলিভিয়া": [
+    "https://reliefweb.int/updates/rss/bo"
+  ],
+  "নিকারাগুয়া": [
+    "https://reliefweb.int/updates/rss/ni"
+  ],
+  "গুয়াতেমালা": [
+    "https://reliefweb.int/updates/rss/gt"
+  ],
+  "পশ্চিম সাহারা": [
+    "https://reliefweb.int/updates/rss/eh"
+  ],
+  "চাদ": [
+    "https://reliefweb.int/updates/rss/td"
+  ],
+  "বুরুন্ডি": [
+    "https://reliefweb.int/updates/rss/bi"
+  ],
+  "রুয়ান্ডা": [
+    "https://reliefweb.int/updates/rss/rw"
+  ]
+}
